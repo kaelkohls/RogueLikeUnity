@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc837d267ab1ac74d886f38fb1806fa7, type: 3}
+  m_Name: New Habilidad Elemental 3
+  m_EditorClassIdentifier: 
+  habilidad1Pasiva2: 0
+  artwork: {fileID: 7278350115447145308, guid: bce338f0215af6c428d4c896b1bdd7cf, type: 3}
+  nombre: sas
+  apilable: 0
+  descripcion: 
+  danio: 0
+  salud: 0
+  fireball: 1
+  estela: 1
+  money: 0
+  resistenciaFuego: 0
+  resistenciaRayo: 0
+  resistenciaAgua: 0
+  resistenciaVeneno: 0
