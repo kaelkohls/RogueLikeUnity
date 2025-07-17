@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 31c2787ae1cf29e4bbdcc9904f8a9f5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2561597970143473393
+    second: plantillas de menu_0
+  - first:
+      213: -4468384422055533584
+    second: plantillas de menu_1
+  - first:
+      213: -2785889723191648451
+    second: plantillas de menu_2
+  - first:
+      213: -3810015674914756629
+    second: plantillas de menu_3
+  - first:
+      213: -4009429887079366532
+    second: plantillas de menu_4
+  - first:
+      213: -7408800339116990042
+    second: plantillas de menu_5
+  - first:
+      213: 8430642620022811624
+    second: plantillas de menu_6
+  - first:
+      213: -8949011669182122664
+    second: plantillas de menu_7
+  - first:
+      213: -6461913329781009536
+    second: plantillas de menu_8
+  - first:
+      213: -4852313277789523048
+    second: plantillas de menu_9
+  - first:
+      213: 6223738196171228897
+    second: plantillas de menu_10
+  - first:
+      213: -7193522069529612901
+    second: plantillas de menu_11
+  - first:
+      213: -1321161713951808396
+    second: plantillas de menu_12
+  - first:
+      213: -9141022857187310952
+    second: plantillas de menu_13
+  - first:
+      213: 5414266949496306419
+    second: plantillas de menu_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 21
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plantillas de menu_0
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1438
+        width: 689
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe63cb28cf9c8320800000000000000
+      internalID: 2561597970143473393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantillas de menu_1
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1277
+        width: 688
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3ad7bea0c1df1c0800000000000000
+      internalID: -4468384422055533584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantillas de menu_2
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1098
+        width: 688
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f10c99e088659d0800000000000000
+      internalID: -2785889723191648451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantillas de menu_3
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 900
+        width: 689
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be729041eea102bc0800000000000000
+      internalID: -3810015674914756629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantillas de menu_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 721
+        width: 689
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70ccc4b2c4ab58c0800000000000000
+      internalID: -4009429887079366532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantillas de menu_5
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 761
+        width: 689
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a163275857ae2990800000000000000
+      internalID: -7408800339116990042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantillas de menu_6
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 740
+        width: 687
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb6ab2abc8aff470800000000000000
+      internalID: 8430642620022811624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantillas de menu_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 481
+        width: 689
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855f29ffc49bec380800000000000000
+      internalID: -8949011669182122664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantillas de menu_8
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 487
+        width: 687
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0839a01301ca256a0800000000000000
+      internalID: -6461913329781009536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantillas de menu_9
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 533
+        width: 689
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893b17258ce19acb0800000000000000
+      internalID: -4852313277789523048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantillas de menu_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 321
+        width: 689
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e601d52ae82f5650800000000000000
+      internalID: 6223738196171228897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantillas de menu_11
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 362
+        width: 689
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d21c96ac97b2c90800000000000000
+      internalID: -7193522069529612901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantillas de menu_12
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 227
+        width: 689
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4746e05cb6a4aade0800000000000000
+      internalID: -1321161713951808396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantillas de menu_13
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 33
+        width: 689
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892cf918420942180800000000000000
+      internalID: -9141022857187310952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plantillas de menu_14
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 101
+        width: 689
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa7dd3ca17532b40800000000000000
+      internalID: 5414266949496306419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      plantillas de menu_4: -4009429887079366532
+      plantillas de menu_8: -6461913329781009536
+      plantillas de menu_1: -4468384422055533584
+      plantillas de menu_14: 5414266949496306419
+      plantillas de menu_11: -7193522069529612901
+      plantillas de menu_2: -2785889723191648451
+      plantillas de menu_5: -7408800339116990042
+      plantillas de menu_13: -9141022857187310952
+      plantillas de menu_0: 2561597970143473393
+      plantillas de menu_3: -3810015674914756629
+      plantillas de menu_9: -4852313277789523048
+      plantillas de menu_6: 8430642620022811624
+      plantillas de menu_7: -8949011669182122664
+      plantillas de menu_12: -1321161713951808396
+      plantillas de menu_10: 6223738196171228897
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
